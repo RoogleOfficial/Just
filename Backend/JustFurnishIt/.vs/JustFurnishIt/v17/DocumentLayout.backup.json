@@ -1,0 +1,2164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\",
+  "Documents": [
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\account_service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\account_service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\dto\\updateddesigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\dto\\updateddesigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\dto\\designdto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\dto\\designdto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\dto\\designdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\dto\\designdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\data\\designdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\data\\designdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\controllers\\designercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\controllers\\designercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\feedback_service\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|solutionrelative:feedback_service\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\feedback_service\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|solutionrelative:feedback_service\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\feedback_service\\repository\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|solutionrelative:feedback_service\\repository\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\feedback_service\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|solutionrelative:feedback_service\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\feedback_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|solutionrelative:feedback_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\designer-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\designer-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\repository\\designerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\repository\\designerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\model\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\model\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\model\\designerusermappingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\model\\designerusermappingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\model\\createdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\model\\createdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\repository\\idesignerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\repository\\idesignerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967F49D3-7D96-47C7-B884-ABD7861E9898}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\jwtauthentication\\jwtextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967F49D3-7D96-47C7-B884-ABD7861E9898}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\jwtextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\design_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\design_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\repository\\designrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\repository\\designrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\models\\designcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\models\\designcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\models\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\models\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\dto\\designerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\dto\\designerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\customexceptions\\designerunavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\customexceptions\\designerunavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\booking-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\booking-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\automapping\\bookingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\automapping\\bookingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\repository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\repository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\customer-service\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|solutionrelative:customer-service\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\customer-service\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|solutionrelative:customer-service\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\customer-service\\dtos\\wishlistcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|solutionrelative:customer-service\\dtos\\wishlistcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\customer-service\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|solutionrelative:customer-service\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\quoteservices\\repositories\\quoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|solutionrelative:quoteservices\\repositories\\quoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\customer-service\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|solutionrelative:customer-service\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\quoteservices\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|solutionrelative:quoteservices\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\quoteservices\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|solutionrelative:quoteservices\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\quoteservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|solutionrelative:quoteservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAE2A1-7E79-44BF-ABB6-4F829E8C95F3}|OtpService\\OtpService.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\otpservice\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DAE2A1-7E79-44BF-ABB6-4F829E8C95F3}|OtpService\\OtpService.csproj|solutionrelative:otpservice\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEEFE54-FD5C-4C09-85DB-68F57CC2D07B}|ImageUploadService\\ImageUploadService.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\imageuploadservice\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEEFE54-FD5C-4C09-85DB-68F57CC2D07B}|ImageUploadService\\ImageUploadService.csproj|solutionrelative:imageuploadservice\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\repository\\idesignrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\repository\\idesignrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\account_service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\account_service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\automapperprofile\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\automapperprofile\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\data\\accountdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\data\\accountdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\customer-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|solutionrelative:customer-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\helpers\\smtpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\helpers\\smtpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34379CF0-87CA-4D68-B9B2-79C7EF6B91F0}|docker-compose.dcproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{34379CF0-87CA-4D68-B9B2-79C7EF6B91F0}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34379CF0-87CA-4D68-B9B2-79C7EF6B91F0}|docker-compose.dcproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{34379CF0-87CA-4D68-B9B2-79C7EF6B91F0}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\dataaccess\\bookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\dataaccess\\bookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DAE2A1-7E79-44BF-ABB6-4F829E8C95F3}|OtpService\\OtpService.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\otpservice\\otpservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7DAE2A1-7E79-44BF-ABB6-4F829E8C95F3}|OtpService\\OtpService.csproj|solutionrelative:otpservice\\otpservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF669675-BE61-4F0D-8FB5-5DD979667DA0}|Api_Gateway_Service\\Api_Gateway_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\api_gateway_service\\apigatewayconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF669675-BE61-4F0D-8FB5-5DD979667DA0}|Api_Gateway_Service\\Api_Gateway_Service.csproj|solutionrelative:api_gateway_service\\apigatewayconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\quoteservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|solutionrelative:quoteservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEEFE54-FD5C-4C09-85DB-68F57CC2D07B}|ImageUploadService\\ImageUploadService.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\imageuploadservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CEEFE54-FD5C-4C09-85DB-68F57CC2D07B}|ImageUploadService\\ImageUploadService.csproj|solutionrelative:imageuploadservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\feedback_service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|solutionrelative:feedback_service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\customer-service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|solutionrelative:customer-service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\designer-service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CCA0DCE0-84BA-4269-89F7-8E383415B730}|Designer-Service\\Designer-Service.csproj|solutionrelative:designer-service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\account_service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21AB5C05-F48D-4F68-BFC3-0DE0064D281E}|Account_Service\\Account_Service.csproj|solutionrelative:account_service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEEFE54-FD5C-4C09-85DB-68F57CC2D07B}|ImageUploadService\\ImageUploadService.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\imageuploadservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CEEFE54-FD5C-4C09-85DB-68F57CC2D07B}|ImageUploadService\\ImageUploadService.csproj|solutionrelative:imageuploadservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF669675-BE61-4F0D-8FB5-5DD979667DA0}|Api_Gateway_Service\\Api_Gateway_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\api_gateway_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF669675-BE61-4F0D-8FB5-5DD979667DA0}|Api_Gateway_Service\\Api_Gateway_Service.csproj|solutionrelative:api_gateway_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\quoteservices\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|solutionrelative:quoteservices\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEEFE54-FD5C-4C09-85DB-68F57CC2D07B}|ImageUploadService\\ImageUploadService.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\imageuploadservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CEEFE54-FD5C-4C09-85DB-68F57CC2D07B}|ImageUploadService\\ImageUploadService.csproj|solutionrelative:imageuploadservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\feedback_service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|solutionrelative:feedback_service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\design_services\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D22303AA-5660-47C7-BE24-8BA34DF2375F}|Design_Services\\Design_Services.csproj|solutionrelative:design_services\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\customer-service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|solutionrelative:customer-service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF669675-BE61-4F0D-8FB5-5DD979667DA0}|Api_Gateway_Service\\Api_Gateway_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\api_gateway_service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF669675-BE61-4F0D-8FB5-5DD979667DA0}|Api_Gateway_Service\\Api_Gateway_Service.csproj|solutionrelative:api_gateway_service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\quoteservices\\quoteservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C90DD7F4-49C8-4919-9EEA-651C89730909}|QuoteServices\\QuoteServices.csproj|solutionrelative:quoteservices\\quoteservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\feedback_service\\feedback_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A84FA3CB-6CCD-4CFC-A81D-FF0A1A456237}|Feedback_Service\\Feedback_Service.csproj|solutionrelative:feedback_service\\feedback_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\customer-service\\customer-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8974DE00-9F7A-418B-B649-4F1A9BF8BA01}|Customer-Service\\Customer-Service.csproj|solutionrelative:customer-service\\customer-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF669675-BE61-4F0D-8FB5-5DD979667DA0}|Api_Gateway_Service\\Api_Gateway_Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\api_gateway_service\\api_gateway_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF669675-BE61-4F0D-8FB5-5DD979667DA0}|Api_Gateway_Service\\Api_Gateway_Service.csproj|solutionrelative:api_gateway_service\\api_gateway_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\migrations\\20241108085645_slotremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\migrations\\20241108085645_slotremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|c:\\users\\vmadmin\\desktop\\project\\justfurnishit\\backend\\justfurnishit\\booking-service\\migrations\\20241108084711_createdonremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99213F07-B47D-4F02-ACFC-3EF428F825FA}|Booking-Service\\Booking-Service.csproj|solutionrelative:booking-service\\migrations\\20241108084711_createdonremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 0,
+=======
+              "DocumentIndex": 1,
+              "Title": "Account_Service.http",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Account_Service.http",
+              "RelativeDocumentMoniker": "Account_Service\\Account_Service.http",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Account_Service.http",
+              "RelativeToolTip": "Account_Service\\Account_Service.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-09T13:27:44.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Data\\AccountDBContext.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Data\\AccountDBContext.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Data\\AccountDBContext.cs",
+              "RelativeToolTip": "Account_Service\\Data\\AccountDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:52:33.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Account_Service\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:42:02.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Repository\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "Booking-Service\\Repository\\BookingRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAWwF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:46:11.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Model\\CreateDTO.cs",
+              "RelativeDocumentMoniker": "Designer-Service\\Model\\CreateDTO.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Model\\CreateDTO.cs",
+              "RelativeToolTip": "Designer-Service\\Model\\CreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:25:24.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Feedback_Service\\Repository\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "Feedback_Service\\Repository\\ReviewRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:40:06.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Account_Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\appsettings.json",
+              "RelativeToolTip": "Account_Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T05:56:28.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Program.cs",
+              "RelativeDocumentMoniker": "Design_Services\\Program.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Program.cs",
+              "RelativeToolTip": "Design_Services\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vwEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:13:51.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 8,
+              "Title": "DesignDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Data\\DesignDBContext.cs",
+              "RelativeDocumentMoniker": "Design_Services\\Data\\DesignDBContext.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Data\\DesignDBContext.cs",
+              "RelativeToolTip": "Design_Services\\Data\\DesignDBContext.cs",
+=======
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Program.cs",
+              "RelativeDocumentMoniker": "Designer-Service\\Program.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Program.cs",
+              "RelativeToolTip": "Designer-Service\\Program.cs",
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:25:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 7,
+              "Title": "DesignDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\DTO\\DesignDTO.cs",
+              "RelativeDocumentMoniker": "Design_Services\\DTO\\DesignDTO.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\DTO\\DesignDTO.cs",
+              "RelativeToolTip": "Design_Services\\DTO\\DesignDTO.cs",
+=======
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Program.cs",
+              "RelativeDocumentMoniker": "Customer-Service\\Program.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Program.cs",
+              "RelativeToolTip": "Customer-Service\\Program.cs",
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:38:56.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 6,
+              "Title": "DesignDTO1.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\DTO\\DesignDTO1.cs",
+              "RelativeDocumentMoniker": "Design_Services\\DTO\\DesignDTO1.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\DTO\\DesignDTO1.cs",
+              "RelativeToolTip": "Design_Services\\DTO\\DesignDTO1.cs",
+=======
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\User.cs",
+              "RelativeToolTip": "Account_Service\\Models\\User.cs",
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:12:42.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+=======
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Account_Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\appsettings.json",
+              "RelativeToolTip": "Account_Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T05:56:28.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Repository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "Account_Service\\Repository\\AccountRepository.cs",
+              "ViewState": "AgIAALYBAAAAAAAAAAAiwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:52:56.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Booking-Service\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAWwI8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:49:29.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 2,
+=======
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Customer-Service\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Customer-Service\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowFIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:53:20.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Repository\\DesignerRepository.cs",
+              "RelativeDocumentMoniker": "Designer-Service\\Repository\\DesignerRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Repository\\DesignerRepository.cs",
+              "RelativeToolTip": "Designer-Service\\Repository\\DesignerRepository.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswIAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:56:40.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountProfile.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\AutoMapperProfile\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "Account_Service\\AutoMapperProfile\\AccountProfile.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\AutoMapperProfile\\AccountProfile.cs",
+              "RelativeToolTip": "Account_Service\\AutoMapperProfile\\AccountProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:33:19.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesignRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Repository\\DesignRepository.cs",
+              "RelativeDocumentMoniker": "Design_Services\\Repository\\DesignRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Repository\\DesignRepository.cs",
+              "RelativeToolTip": "Design_Services\\Repository\\DesignRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:55:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\Roles.cs",
+              "RelativeToolTip": "Account_Service\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:41:42.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SMTPService.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Helpers\\SMTPService.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Helpers\\SMTPService.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Helpers\\SMTPService.cs",
+              "RelativeToolTip": "Booking-Service\\Helpers\\SMTPService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:37:55.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-07T06:05:02.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DesignerUnavailableException.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\CustomExceptions\\DesignerUnavailableException.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\CustomExceptions\\DesignerUnavailableException.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\CustomExceptions\\DesignerUnavailableException.cs",
+              "RelativeToolTip": "Booking-Service\\CustomExceptions\\DesignerUnavailableException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:32:54.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T07:00:04.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\AutoMapping\\BookingProfile.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\AutoMapping\\BookingProfile.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\AutoMapping\\BookingProfile.cs",
+              "RelativeToolTip": "Booking-Service\\AutoMapping\\BookingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:24:06.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Program.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Program.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Program.cs",
+              "RelativeToolTip": "Booking-Service\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:36:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\appsettings.json",
+              "RelativeDocumentMoniker": "Design_Services\\appsettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\appsettings.json",
+              "RelativeToolTip": "Design_Services\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "DocumentIndex": 23,
+              "Title": "BookingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\DataAccess\\BookingDbContext.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\DataAccess\\BookingDbContext.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\DataAccess\\BookingDbContext.cs",
+              "RelativeToolTip": "Booking-Service\\DataAccess\\BookingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:55:28.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "APIGatewayConfig.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Api_Gateway_Service\\APIGatewayConfig.json",
+              "RelativeDocumentMoniker": "Api_Gateway_Service\\APIGatewayConfig.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Api_Gateway_Service\\APIGatewayConfig.json",
+              "RelativeToolTip": "Api_Gateway_Service\\APIGatewayConfig.json",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T05:37:12.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Controllers\\DesignController.cs",
+              "RelativeDocumentMoniker": "Design_Services\\Controllers\\DesignController.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Controllers\\DesignController.cs",
+              "RelativeToolTip": "Design_Services\\Controllers\\DesignController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:35:13.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdatedDesignDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\DTO\\UpdatedDesignDTO.cs",
+              "RelativeDocumentMoniker": "Design_Services\\DTO\\UpdatedDesignDTO.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\DTO\\UpdatedDesignDTO.cs",
+              "RelativeToolTip": "Design_Services\\DTO\\UpdatedDesignDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:39:05.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DesignerController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Controllers\\DesignerController.cs",
+              "RelativeDocumentMoniker": "Designer-Service\\Controllers\\DesignerController.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Controllers\\DesignerController.cs",
+              "RelativeToolTip": "Designer-Service\\Controllers\\DesignerController.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAYwNwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:18:46.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 17,
+=======
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Booking-Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\appsettings.json",
+              "RelativeToolTip": "Booking-Service\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T19:38:04.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Model\\Booking.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Model\\Booking.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Model\\Booking.cs",
+              "RelativeToolTip": "Booking-Service\\Model\\Booking.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:46:27.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Repository\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Repository\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Repository\\IBookingRepository.cs",
+              "RelativeToolTip": "Booking-Service\\Repository\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:49:13.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Program.cs",
+              "RelativeDocumentMoniker": "Feedback_Service\\Program.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Program.cs",
+              "RelativeToolTip": "Feedback_Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:39:53.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Feedback_Service\\Repository\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "Feedback_Service\\Repository\\ReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:40:06.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Feedback_Service\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Models\\Review.cs",
+              "RelativeToolTip": "Feedback_Service\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:43:19.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Designer-Service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Designer-Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:32:23.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Feedback_Service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Feedback_Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:32:39.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\ImageUploadService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ImageUploadService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\ImageUploadService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ImageUploadService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:33:04.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OtpService.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\OtpService\\OtpService.csproj",
+              "RelativeDocumentMoniker": "OtpService\\OtpService.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\OtpService\\OtpService.csproj",
+              "RelativeToolTip": "OtpService\\OtpService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T11:53:35.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuoteServices\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuoteServices\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:33:25.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Design_Services\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Design_Services\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:32:02.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Customer-Service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Customer-Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:31:44.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Booking-Service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Booking-Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:31:03.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20241108085645_slotRemoved.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Migrations\\20241108085645_slotRemoved.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Migrations\\20241108085645_slotRemoved.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Migrations\\20241108085645_slotRemoved.cs",
+              "RelativeToolTip": "Booking-Service\\Migrations\\20241108085645_slotRemoved.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wBkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:56:45.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Design_Services.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Design_Services.csproj",
+              "RelativeDocumentMoniker": "Design_Services\\Design_Services.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Design_Services.csproj",
+              "RelativeToolTip": "Design_Services\\Design_Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:07:34.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20241108084711_CreatedOnRemoved.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Migrations\\20241108084711_CreatedOnRemoved.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Migrations\\20241108084711_CreatedOnRemoved.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Migrations\\20241108084711_CreatedOnRemoved.cs",
+              "RelativeToolTip": "Booking-Service\\Migrations\\20241108084711_CreatedOnRemoved.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:47:11.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Booking-Service.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Booking-Service.csproj",
+              "RelativeDocumentMoniker": "Booking-Service\\Booking-Service.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Booking-Service.csproj",
+              "RelativeToolTip": "Booking-Service\\Booking-Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:06:57.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Designer-Service.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Designer-Service.csproj",
+              "RelativeDocumentMoniker": "Designer-Service\\Designer-Service.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Designer-Service.csproj",
+              "RelativeToolTip": "Designer-Service\\Designer-Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:08:03.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 23,
+=======
+              "DocumentIndex": 39,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "IDesignerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Repository\\IDesignerRepository.cs",
+              "RelativeDocumentMoniker": "Designer-Service\\Repository\\IDesignerRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Repository\\IDesignerRepository.cs",
+              "RelativeToolTip": "Designer-Service\\Repository\\IDesignerRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:00:26.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 14,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Repository\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "Feedback_Service\\Repository\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Repository\\IReviewRepository.cs",
+              "RelativeToolTip": "Feedback_Service\\Repository\\IReviewRepository.cs",
+=======
+              "DocumentIndex": 41,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Designer-Service\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\appsettings.Development.json",
+              "RelativeToolTip": "Designer-Service\\appsettings.Development.json",
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:19:38.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 12,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Feedback_Service\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Feedback_Service\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:20:36.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+=======
+              "DocumentIndex": 43,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "DesignerUserMappingDto.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Model\\DesignerUserMappingDto.cs",
+              "RelativeDocumentMoniker": "Designer-Service\\Model\\DesignerUserMappingDto.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Model\\DesignerUserMappingDto.cs",
+              "RelativeToolTip": "Designer-Service\\Model\\DesignerUserMappingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:24:19.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Program.cs",
+              "RelativeDocumentMoniker": "Feedback_Service\\Program.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Program.cs",
+              "RelativeToolTip": "Feedback_Service\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:39:53.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Feedback_Service\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Models\\Review.cs",
+              "RelativeToolTip": "Feedback_Service\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:43:19.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+=======
+              "DocumentIndex": 42,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "Designer-Service\\Model\\UserDto.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Model\\UserDto.cs",
+              "RelativeToolTip": "Designer-Service\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:24:25.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 18,
+              "Title": "DesignerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Repository\\DesignerRepository.cs",
+              "RelativeDocumentMoniker": "Designer-Service\\Repository\\DesignerRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Repository\\DesignerRepository.cs",
+              "RelativeToolTip": "Designer-Service\\Repository\\DesignerRepository.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAqwIYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:56:40.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Model\\Designer.cs",
+              "RelativeDocumentMoniker": "Designer-Service\\Model\\Designer.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Model\\Designer.cs",
+              "RelativeToolTip": "Designer-Service\\Model\\Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:25:21.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JWTExtenstions.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\JWTAuthentication\\JWTExtenstions.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\JWTExtenstions.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\JWTAuthentication\\JWTExtenstions.cs",
+              "RelativeToolTip": "JWTAuthentication\\JWTExtenstions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:48:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Design_Services.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Design_Services.csproj",
+              "RelativeDocumentMoniker": "Design_Services\\Design_Services.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Design_Services.csproj",
+              "RelativeToolTip": "Design_Services\\Design_Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:07:34.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DesignRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Repository\\DesignRepository.cs",
+              "RelativeDocumentMoniker": "Design_Services\\Repository\\DesignRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Repository\\DesignRepository.cs",
+              "RelativeToolTip": "Design_Services\\Repository\\DesignRepository.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAwMsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:55:38.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DesignCategory.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Models\\DesignCategory.cs",
+              "RelativeDocumentMoniker": "Design_Services\\Models\\DesignCategory.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Models\\DesignCategory.cs",
+              "RelativeToolTip": "Design_Services\\Models\\DesignCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:38:50.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Design.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Models\\Design.cs",
+              "RelativeDocumentMoniker": "Design_Services\\Models\\Design.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Models\\Design.cs",
+              "RelativeToolTip": "Design_Services\\Models\\Design.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:37:20.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Booking-Service.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Booking-Service.csproj",
+              "RelativeDocumentMoniker": "Booking-Service\\Booking-Service.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Booking-Service.csproj",
+              "RelativeToolTip": "Booking-Service\\Booking-Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:06:57.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\AutoMapping\\BookingProfile.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\AutoMapping\\BookingProfile.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\AutoMapping\\BookingProfile.cs",
+              "RelativeToolTip": "Booking-Service\\AutoMapping\\BookingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:24:06.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Booking-Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\appsettings.json",
+              "RelativeToolTip": "Booking-Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T19:38:04.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DesignerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\DTO\\DesignerDTO.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\DTO\\DesignerDTO.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\DTO\\DesignerDTO.cs",
+              "RelativeToolTip": "Booking-Service\\DTO\\DesignerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:58:30.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\DTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\DTO\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\DTO\\CustomerDTO.cs",
+              "RelativeToolTip": "Booking-Service\\DTO\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:59:26.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Repository\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Repository\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Repository\\IBookingRepository.cs",
+              "RelativeToolTip": "Booking-Service\\Repository\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:49:13.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+=======
+              "DocumentIndex": 45,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\DTO\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\DTO\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\DTO\\BookingDTO.cs",
+              "RelativeToolTip": "Booking-Service\\DTO\\BookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:49:19.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DesignerUnavailableException.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\CustomExceptions\\DesignerUnavailableException.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\CustomExceptions\\DesignerUnavailableException.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\CustomExceptions\\DesignerUnavailableException.cs",
+              "RelativeToolTip": "Booking-Service\\CustomExceptions\\DesignerUnavailableException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:32:54.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Model\\Booking.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Model\\Booking.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Model\\Booking.cs",
+              "RelativeToolTip": "Booking-Service\\Model\\Booking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:46:27.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Customer-Service\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Customer-Service\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:53:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MediaController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\ImageUploadService\\Controllers\\MediaController.cs",
+              "RelativeDocumentMoniker": "ImageUploadService\\Controllers\\MediaController.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\ImageUploadService\\Controllers\\MediaController.cs",
+              "RelativeToolTip": "ImageUploadService\\Controllers\\MediaController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:30:47.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 42,
+              "Title": "QuoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Repositories\\QuoteRepository.cs",
+              "RelativeDocumentMoniker": "QuoteServices\\Repositories\\QuoteRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Repositories\\QuoteRepository.cs",
+              "RelativeToolTip": "QuoteServices\\Repositories\\QuoteRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwCcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:31:29.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CustomerCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\DTOs\\CustomerCreateDTO.cs",
+              "RelativeDocumentMoniker": "Customer-Service\\DTOs\\CustomerCreateDTO.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\DTOs\\CustomerCreateDTO.cs",
+              "RelativeToolTip": "Customer-Service\\DTOs\\CustomerCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:53:11.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer-Service\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Models\\Customer.cs",
+              "RelativeToolTip": "Customer-Service\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:53:17.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WishListController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Controllers\\WishListController.cs",
+              "RelativeDocumentMoniker": "Customer-Service\\Controllers\\WishListController.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Controllers\\WishListController.cs",
+              "RelativeToolTip": "Customer-Service\\Controllers\\WishListController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:56:36.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WishListCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\DTOs\\WishListCreateDTO.cs",
+              "RelativeDocumentMoniker": "Customer-Service\\DTOs\\WishListCreateDTO.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\DTOs\\WishListCreateDTO.cs",
+              "RelativeToolTip": "Customer-Service\\DTOs\\WishListCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:56:38.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OTPService.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\OtpService\\Services\\OTPService.cs",
+              "RelativeDocumentMoniker": "OtpService\\Services\\OTPService.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\OtpService\\Services\\OTPService.cs",
+              "RelativeToolTip": "OtpService\\Services\\OTPService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:31:07.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Models\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "QuoteServices\\Models\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Models\\MongoDbSettings.cs",
+              "RelativeToolTip": "QuoteServices\\Models\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:31:33.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\appsettings.json",
+              "RelativeDocumentMoniker": "QuoteServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\appsettings.json",
+              "RelativeToolTip": "QuoteServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T07:31:38.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "QuoteServices\\Models\\Quote.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Models\\Quote.cs",
+              "RelativeToolTip": "QuoteServices\\Models\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:32:15.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IDesignRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Repository\\IDesignRepository.cs",
+              "RelativeDocumentMoniker": "Design_Services\\Repository\\IDesignRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Repository\\IDesignRepository.cs",
+              "RelativeToolTip": "Design_Services\\Repository\\IDesignRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:39:09.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AccountDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Data\\AccountDBContext.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Data\\AccountDBContext.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Data\\AccountDBContext.cs",
+              "RelativeToolTip": "Account_Service\\Data\\AccountDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:52:33.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Account_Service.http",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Account_Service.http",
+              "RelativeDocumentMoniker": "Account_Service\\Account_Service.http",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Account_Service.http",
+              "RelativeToolTip": "Account_Service\\Account_Service.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-09T13:27:44.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Account_Service\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:42:02.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Program.cs",
+              "RelativeDocumentMoniker": "Designer-Service\\Program.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Program.cs",
+              "RelativeToolTip": "Designer-Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:53:30.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Program.cs",
+              "RelativeDocumentMoniker": "Customer-Service\\Program.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Program.cs",
+              "RelativeToolTip": "Customer-Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:53:35.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\User.cs",
+              "RelativeToolTip": "Account_Service\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:41:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Repository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "Account_Service\\Repository\\AccountRepository.cs",
+              "ViewState": "AgIAALYBAAAAAAAAAAAiwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:52:56.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AccountProfile.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\AutoMapperProfile\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "Account_Service\\AutoMapperProfile\\AccountProfile.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\AutoMapperProfile\\AccountProfile.cs",
+              "RelativeToolTip": "Account_Service\\AutoMapperProfile\\AccountProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:33:19.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Models\\Roles.cs",
+              "RelativeToolTip": "Account_Service\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:41:42.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SMTPService.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Helpers\\SMTPService.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Helpers\\SMTPService.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Helpers\\SMTPService.cs",
+              "RelativeToolTip": "Booking-Service\\Helpers\\SMTPService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:37:55.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-07T06:05:02.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T07:00:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BookingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\DataAccess\\BookingDbContext.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\DataAccess\\BookingDbContext.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\DataAccess\\BookingDbContext.cs",
+              "RelativeToolTip": "Booking-Service\\DataAccess\\BookingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:55:28.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "APIGatewayConfig.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Api_Gateway_Service\\APIGatewayConfig.json",
+              "RelativeDocumentMoniker": "Api_Gateway_Service\\APIGatewayConfig.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Api_Gateway_Service\\APIGatewayConfig.json",
+              "RelativeToolTip": "Api_Gateway_Service\\APIGatewayConfig.json",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T06:12:30.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Designer-Service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Designer-Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:32:23.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Feedback_Service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Feedback_Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:32:39.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\ImageUploadService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ImageUploadService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\ImageUploadService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ImageUploadService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:33:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OtpService.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\OtpService\\OtpService.csproj",
+              "RelativeDocumentMoniker": "OtpService\\OtpService.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\OtpService\\OtpService.csproj",
+              "RelativeToolTip": "OtpService\\OtpService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T11:53:35.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuoteServices\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuoteServices\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:33:25.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Design_Services\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Design_Services\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:32:02.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Customer-Service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Customer-Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:31:44.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Booking-Service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Booking-Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:31:03.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20241108085645_slotRemoved.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Migrations\\20241108085645_slotRemoved.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Migrations\\20241108085645_slotRemoved.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Migrations\\20241108085645_slotRemoved.cs",
+              "RelativeToolTip": "Booking-Service\\Migrations\\20241108085645_slotRemoved.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wBkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:56:45.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20241108084711_CreatedOnRemoved.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Migrations\\20241108084711_CreatedOnRemoved.cs",
+              "RelativeDocumentMoniker": "Booking-Service\\Migrations\\20241108084711_CreatedOnRemoved.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Migrations\\20241108084711_CreatedOnRemoved.cs",
+              "RelativeToolTip": "Booking-Service\\Migrations\\20241108084711_CreatedOnRemoved.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:47:11.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Designer-Service\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\appsettings.Development.json",
+              "RelativeToolTip": "Designer-Service\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T07:19:10.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+=======
+              "DocumentIndex": 44,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Designer-Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\appsettings.json",
+              "RelativeToolTip": "Designer-Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T07:00:22.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 74,
+=======
+              "DocumentIndex": 46,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Program.cs",
+              "RelativeDocumentMoniker": "Account_Service\\Program.cs",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Program.cs",
+              "RelativeToolTip": "Account_Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:56:25.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 76,
+=======
+              "DocumentIndex": 48,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Dockerfile",
+              "RelativeDocumentMoniker": "Account_Service\\Dockerfile",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Account_Service\\Dockerfile",
+              "RelativeToolTip": "Account_Service\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T06:05:17.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 79,
+=======
+              "DocumentIndex": 51,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Dockerfile",
+              "RelativeDocumentMoniker": "QuoteServices\\Dockerfile",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\Dockerfile",
+              "RelativeToolTip": "QuoteServices\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T06:11:38.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 80,
+=======
+              "DocumentIndex": 52,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\ImageUploadService\\Dockerfile",
+              "RelativeDocumentMoniker": "ImageUploadService\\Dockerfile",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\ImageUploadService\\Dockerfile",
+              "RelativeToolTip": "ImageUploadService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T06:11:27.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 78,
+=======
+              "DocumentIndex": 50,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Api_Gateway_Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_Gateway_Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Api_Gateway_Service\\appsettings.json",
+              "RelativeToolTip": "Api_Gateway_Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T06:12:27.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 75,
+=======
+              "DocumentIndex": 47,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Dockerfile",
+              "RelativeDocumentMoniker": "Designer-Service\\Dockerfile",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Designer-Service\\Dockerfile",
+              "RelativeToolTip": "Designer-Service\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T06:11:07.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 77,
+=======
+              "DocumentIndex": 49,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\ImageUploadService\\appsettings.json",
+              "RelativeDocumentMoniker": "ImageUploadService\\appsettings.json",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\ImageUploadService\\appsettings.json",
+              "RelativeToolTip": "ImageUploadService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T06:29:57.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 81,
+=======
+              "DocumentIndex": 53,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Dockerfile",
+              "RelativeDocumentMoniker": "Feedback_Service\\Dockerfile",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Dockerfile",
+              "RelativeToolTip": "Feedback_Service\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T06:11:17.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 82,
+=======
+              "DocumentIndex": 54,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Dockerfile",
+              "RelativeDocumentMoniker": "Design_Services\\Dockerfile",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Design_Services\\Dockerfile",
+              "RelativeToolTip": "Design_Services\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T06:10:57.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 83,
+=======
+              "DocumentIndex": 55,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Dockerfile",
+              "RelativeDocumentMoniker": "Customer-Service\\Dockerfile",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Dockerfile",
+              "RelativeToolTip": "Customer-Service\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T06:10:45.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 84,
+=======
+              "DocumentIndex": 56,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Dockerfile",
+              "RelativeDocumentMoniker": "Booking-Service\\Dockerfile",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Booking-Service\\Dockerfile",
+              "RelativeToolTip": "Booking-Service\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T06:10:36.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 85,
+=======
+              "DocumentIndex": 57,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Api_Gateway_Service\\Dockerfile",
+              "RelativeDocumentMoniker": "Api_Gateway_Service\\Dockerfile",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Api_Gateway_Service\\Dockerfile",
+              "RelativeToolTip": "Api_Gateway_Service\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T06:10:26.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 86,
+=======
+              "DocumentIndex": 58,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "QuoteServices.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\QuoteServices.csproj",
+              "RelativeDocumentMoniker": "QuoteServices\\QuoteServices.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\QuoteServices\\QuoteServices.csproj",
+              "RelativeToolTip": "QuoteServices\\QuoteServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:09:41.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 87,
+=======
+              "DocumentIndex": 59,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Feedback_Service.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Feedback_Service.csproj",
+              "RelativeDocumentMoniker": "Feedback_Service\\Feedback_Service.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Feedback_Service\\Feedback_Service.csproj",
+              "RelativeToolTip": "Feedback_Service\\Feedback_Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:08:24.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 88,
+=======
+              "DocumentIndex": 60,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Customer-Service.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Customer-Service.csproj",
+              "RelativeDocumentMoniker": "Customer-Service\\Customer-Service.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Customer-Service\\Customer-Service.csproj",
+              "RelativeToolTip": "Customer-Service\\Customer-Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:07:10.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 89,
+=======
+              "DocumentIndex": 61,
+>>>>>>> d904d93b0e24e4edd814c099d2bfafcc58695966
+              "Title": "Api_Gateway_Service.csproj",
+              "DocumentMoniker": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Api_Gateway_Service\\Api_Gateway_Service.csproj",
+              "RelativeDocumentMoniker": "Api_Gateway_Service\\Api_Gateway_Service.csproj",
+              "ToolTip": "C:\\Users\\VMAdmin\\Desktop\\Project\\justfurnishit\\Backend\\JustFurnishIt\\Api_Gateway_Service\\Api_Gateway_Service.csproj",
+              "RelativeToolTip": "Api_Gateway_Service\\Api_Gateway_Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T06:05:40.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
